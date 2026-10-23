@@ -1,5 +1,5 @@
 <!-- cmerber profile README · Pixel adventure edition -->
-<!-- 所有配图都在 assets/；无需第三方统计服务或访问令牌。 -->
+<!-- 静态与宝可梦动画素材在 assets/；贪吃蛇由 GitHub Actions 根据真实贡献生成到 output 分支。 -->
 
 <p align="center">
   <img src="./assets/adventure-banner.png" alt="CMERBER — Code. Catch. Create. 宝可梦像素冒险村庄" width="100%" />
@@ -7,6 +7,15 @@
 
 <p align="center">
   <img src="./assets/trainer-nameplate.svg" alt="DRQC / @cmerber — Hello, world!" width="500" />
+</p>
+
+<p align="center"><b>伙伴小队 · PARTY READY</b></p>
+
+<p align="center">
+  <img src="./assets/pokemon/pikachu.gif" alt="待机中的皮卡丘动画" width="80" />
+  <img src="./assets/pokemon/bulbasaur.gif" alt="待机中的妙蛙种子动画" width="80" />
+  <img src="./assets/pokemon/charmander.gif" alt="待机中的小火龙动画" width="80" />
+  <img src="./assets/pokemon/squirtle.gif" alt="待机中的杰尼龟动画" width="80" />
 </p>
 
 <p align="center">
@@ -17,6 +26,7 @@
 <p align="center">
   <a href="https://github.com/cmerber?tab=repositories"><img src="./assets/nav-repositories.svg" alt="查看我的全部仓库" width="140" /></a>
   <a href="https://github.com/cmerber?tab=stars"><img src="./assets/nav-stars.svg" alt="查看我的 GitHub 收藏" width="140" /></a>
+  <a href="https://qcode.im/"><img src="./assets/nav-blog.svg" alt="访问我的博客 qcode.im" width="140" /></a>
   <a href="https://github.com/cmerber"><img src="./assets/nav-follow.svg" alt="访问 cmerber 的 GitHub 个人资料" width="140" /></a>
 </p>
 
@@ -28,8 +38,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3>👋 你好，我是 drqc</h3>
-      <p>欢迎来到我的代码小世界。<br />这里存放我的工具、实验与学习记录。</p>
-      <p><b>训练师 ID</b> · <a href="https://github.com/cmerber">@cmerber</a><br /><b>冒险方式</b> · 保持好奇，边做边学</p>
+      <p>研究生 / 开发者，常驻成都。<br />这里存放我的工具、实验与学习记录。</p>
+      <p><b>训练师 ID</b> · <a href="https://github.com/cmerber">@cmerber</a><br /><b>个人博客</b> · <a href="https://qcode.im/">qcode.im</a><br /><b>冒险方式</b> · 保持好奇，边做边学</p>
     </td>
     <td width="50%" valign="top">
       <h3>🧭 我的探索地图</h3>
@@ -66,6 +76,24 @@
 
 <br />
 
+<img src="./assets/section-contributions.svg" alt="04 / 贡献补给站 / Contribution quest" width="100%" />
+
+<p align="center"><b>每一次提交，都是一次经验积累。</b></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cmerber/cmerber/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cmerber/cmerber/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/cmerber/cmerber/output/github-contribution-grid-snake.svg" alt="由 cmerber 真实 GitHub 贡献图生成的贪吃蛇动画" width="100%" />
+  </picture>
+</p>
+
+<p align="center"><sub>小蛇每天来收集补给 · 每日北京时间 10:23 计划刷新 · <a href="https://github.com/cmerber/cmerber/actions/workflows/snake.yml">查看更新状态 →</a></sub></p>
+
+<br />
+
 <img src="./assets/save-point.svg" alt="SAVE POINT — Keep building. Keep exploring. 下一站，新的可能。" width="100%" />
 
 <p align="center"><sub>Thanks for stopping by. See you on the next adventure! ✦</sub></p>
+
+<p align="center"><sub>Pokémon sprites: <a href="https://github.com/PokeAPI/sprites">PokéAPI</a> · Contribution snake: <a href="https://github.com/Platane/snk">Platane/snk</a></sub></p>
