@@ -35,9 +35,9 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/cmerber/NotionLinkSaver"><img src="./assets/lab/project-notionlinksaver.svg" alt="NotionLinkSaver · 我的作品 · 将网页保存到 Notion" width="250" /></a>
-  <a href="https://github.com/cmerber/NotionNext"><img src="./assets/lab/project-notionnext.svg" alt="NotionNext · 学习与探索 · Fork" width="250" /></a>
-  <a href="https://github.com/cmerber/ARTEX"><img src="./assets/lab/project-artex.svg" alt="ARTEX · 收藏与探索 · Fork" width="250" /></a>
+  <a href="https://github.com/cmerber/NotionLinkSaver"><img src="./assets/lab/project-notionlinksaver.svg" alt="NotionLinkSaver · 我的作品 · 将网页保存到 Notion" width="240" /></a>
+  <a href="https://github.com/cmerber/NotionNext"><img src="./assets/lab/project-notionnext.svg" alt="NotionNext · 学习与探索 · Fork" width="240" /></a>
+  <a href="https://github.com/cmerber/ARTEX"><img src="./assets/lab/project-artex.svg" alt="ARTEX · 收藏与探索 · Fork" width="240" /></a>
 </p>
 
 <p align="center">
